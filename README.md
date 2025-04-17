@@ -19,12 +19,13 @@
 ---
 
 ## 🏆 Honors & Awards  
-🏅Achieved the **Special Recognition Prize** and the **Explainability Prize** in the NIA Challenge Competition:Model Arena (Acoustic Track)
-as a member of the "speechCARE" team.
-🎤 **Oral presentation**, 13th Basic and Clinical Neuroscience Congress, Tehran, 2024.
+🏅 Achieved the **Special Recognition Prize** and the **Explainability Prize** in the NIA Challenge Competition: Model Arena (Acoustic Track) as a member of the **"speechCARE"** team  
+🎤 **Oral presentation**, *13th Basic and Clinical Neuroscience Congress*, Tehran, 2024  
 🎤 Speaker at **4th Symposium on AI in Health & Medicine (Parkinson’s Disease, 2024)**  
 📢 Oral Presenter at **13th Basic & Clinical Neuroscience Congress (2024)**  
-🥇 **1st place in Teen Programming Competitions, Tehran**  
+🥇 **1st place in Teen Programming Competitions, Tehran**
+
+
 
 ---
 
