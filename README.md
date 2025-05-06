@@ -2,6 +2,7 @@
 
 # 👋 Hi, I'm Yasaman Haghbin  
 
+📍**Research Assistant** at Columbia university
 🎓 **M.Sc. in Artificial Intelligence & Robotics** @ University of Tehran  
 💡 Passionate about **Machine learning, Generative AI, and Healthcare ML**  
 📍 Researching **Parkinson Screening, Alzheimer’s detection and synthetic data generation**  
