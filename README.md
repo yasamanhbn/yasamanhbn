@@ -1,5 +1,3 @@
-### I'm Yasaman Haghbin
-
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasamanhbn&show_icons=true&theme=dracula)-->
 
 # 👋 Hi, I'm Yasaman Haghbin  
