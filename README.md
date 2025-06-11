@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Yasaman Haghbin  
 
-📍**Research Assistant** at Columbia university  
-🎓 **M.Sc. in Artificial Intelligence & Robotics** @ University of Tehran  
-💡 Passionate about **Machine learning, Generative AI, and Healthcare ML**  
-📍 Researching **Parkinson Screening, Alzheimer’s detection and synthetic data generation**  
+**Research Assistant** at Columbia university  
+**M.Sc. in Artificial Intelligence & Robotics** @ University of Tehran  
+Passionate about **Machine learning, Generative AI, and Healthcare ML**  
+Researching **Parkinson Screening, Alzheimer’s detection and synthetic data generation**  
 
 ---
 
@@ -39,4 +39,5 @@
 ## 📚 Selected Publications  
 📄 **Feature-to-Image Data Augmentation: Improving Model Feature Extraction with Cluster-Guided Synthetic Samples**  
 ➡️ [arXiv preprint (2024)](https://arxiv.org/abs/2409.17685)  
+📄**Resilient Federated Adversarial Learning With Auxiliary-Classifier GANs and Probabilistic Synthesis for Heterogeneous Environments** ➡️ [IEEE (2025)](https://ieeexplore.ieee.org/document/11007173)
 
