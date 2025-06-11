@@ -37,7 +37,6 @@ Researching **Parkinson Screening, Alzheimer’s detection and synthetic data ge
 ---
 
 ## 📚 Selected Publications  
-📄 **Feature-to-Image Data Augmentation: Improving Model Feature Extraction with Cluster-Guided Synthetic Samples**  
-➡️ [arXiv preprint (2024)](https://arxiv.org/abs/2409.17685)  
+📄 **Feature-to-Image Data Augmentation: Improving Model Feature Extraction with Cluster-Guided Synthetic Samples**  ➡️ [arXiv preprint (2024)](https://arxiv.org/abs/2409.17685)  
 📄**Resilient Federated Adversarial Learning With Auxiliary-Classifier GANs and Probabilistic Synthesis for Heterogeneous Environments** ➡️ [IEEE (2025)](https://ieeexplore.ieee.org/document/11007173)
 
